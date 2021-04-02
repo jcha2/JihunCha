@@ -1,4 +1,6 @@
-#Jihun Cha
+# 차 지헌 Jihun Cha
+
+## 💻 Developer
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:oadalovelace@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/do.the.chacha/)](https://www.instagram.com/do.the.chacha/) 
