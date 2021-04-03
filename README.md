@@ -1,7 +1,7 @@
 # 차 지헌 Jihun Cha
 
-## 💻Developer💻
-## Portfolio : https://www.notion.so/0a35329add7b4c3091c1421744356f93
+<strong>💻Developer💻</strong>
+Portfolio : https://www.notion.so/0a35329add7b4c3091c1421744356f93
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2F0a35329add7b4c3091c1421744356f93&count_bg=%23B34AD5&title_bg=%23606060&icon=&icon_color=%23D58B8B&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
