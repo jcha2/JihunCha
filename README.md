@@ -1,6 +1,6 @@
 # 차 지헌 Jihun Cha
 
-<strong>💻Developer💻</strong><br>
+<strong>💻</strong><br>
 M.S. Candidate in Computer Science, Bioinformatics, AI<br>
 at HYU BISLAB http://bislab.hanyang.ac.kr/
 <br><br>
